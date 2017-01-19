@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+    text-align: center;
+    max-width: 65em;
+    background-color: #b3b3cc;
+    font-family: Helvetica;
+}
+
+li {
+    list-style-type: none;
+    margin-left: auto;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    max-width: 65em;
+}
+
+#blue {
+    color: #5C7AFF;
+    font-style: italic;
+}
+
+.special {
+    background-color: #8585ad;
+    font-family: serif;
+    color: white;
+}
